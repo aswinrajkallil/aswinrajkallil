@@ -74,6 +74,7 @@ An AI-powered chatbot that answers questions about me — my skills, projects, a
 ### 🌦️ Weather App
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswinrajkallil/weather-app)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://weather.aswinraj.dev)
+
 Real-time weather updates using OpenWeather API.
 
 **Tech Stack:** `React` `CSS` `OpenWeather API`
@@ -86,6 +87,7 @@ Real-time weather updates using OpenWeather API.
 ### 🔍 GitHub Finder
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswinrajkallil/github-finder)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://devfinder.aswinraj.dev)
+
 Search and explore GitHub user profiles instantly.
 
 **Tech Stack:** `React` `GitHub API` `CSS`
@@ -132,12 +134,7 @@ Track income and expenses with visual chart insights.
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aswinrajkallil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinrajkallil&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=aswinrajkallil&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
