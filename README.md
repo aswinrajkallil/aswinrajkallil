@@ -53,26 +53,27 @@ const aswinRaj = {
 </p>
 
 ### Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
-</p>
+< <p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+</p> 
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI Aswin — Personal AI Chatbot
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswinrajkallil/jar-ai-assistant)
 [![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ai.aswinraj.dev)
 
 An AI-powered chatbot that answers questions about me — my skills, projects, and background.
 
-**Tech Stack:** `React` `Anthropic API` `CSS`
+**Tech Stack:** `React` `OpenRouter API` `CSS`
 
 ---
 
 ### 🌦️ Weather App
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswinrajkallil)
-
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswinrajkallil/weather-app)
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://weather.aswinraj.dev)
 Real-time weather updates using OpenWeather API.
 
 **Tech Stack:** `React` `CSS` `OpenWeather API`
@@ -84,7 +85,7 @@ Real-time weather updates using OpenWeather API.
 
 ### 🔍 GitHub Finder
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswinrajkallil/github-finder)
-
+[![Live](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://devfinder.aswinraj.dev)
 Search and explore GitHub user profiles instantly.
 
 **Tech Stack:** `React` `GitHub API` `CSS`
