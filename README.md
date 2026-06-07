@@ -2,12 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aswin%20Raj&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20MERN%20Stack%20Developer%20%7C%20India%20🇮🇳&descAlignY=58&descSize=18&descColor=a0aec0" />
 
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+the+web%2C+one+component+at+a+time+🔥;React+Developer+on+a+MERN+Journey;Always+learning%2C+always+growing+🚀;Open+to+internships+%26+collaborations)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aswinrajkallil)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswinrajkallil)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://aswinraj.dev)
-[![Profile Views](https://komarev.com/ghpvc/?username=aswinrajkallil&label=Profile+Views&color=7C3AED&style=for-the-badge)](https://github.com/aswinrajkallil)
 
 </div>
 
@@ -45,7 +48,7 @@ const aswinRaj = {
 - 💻 Building projects to strengthen my React and MERN skills
 - 🌱 Currently learning **Node.js, Express.js, and MongoDB**
 - 🚀 Goal: Become a professional **MERN Stack Developer**
-- 🤝 Open to **internships and collaborations**
+- 🤝 Open to internships and collaborations
 - 📫 Reach me on **LinkedIn**
 
 ---
@@ -76,6 +79,10 @@ const aswinRaj = {
 
 ## 🌦️ Weather App
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://weather.aswinraj.dev)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswinrajkallil)
+
 - Real-time weather updates using OpenWeather API
 - Built with React and CSS
 - Search weather conditions for cities worldwide
@@ -86,13 +93,13 @@ const aswinRaj = {
 
 ## 🔍 GitHub Finder
 
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aswinrajkallil/github-finder)
+
 - Search GitHub users instantly
 - View followers, following, and repositories
 - Built using React and GitHub API
 
 **Tech Stack:** `React` `GitHub API` `CSS`
-
-**Repository:** https://github.com/aswinrajkallil/github-finder
 
 ---
 
@@ -144,11 +151,13 @@ const aswinRaj = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aswinrajkallil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=aswinrajkallil&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinrajkallil&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinrajkallil&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=aswinrajkallil&theme=tokyonight" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=aswinrajkallil&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -158,7 +167,7 @@ const aswinRaj = {
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
